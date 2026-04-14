@@ -1,0 +1,15 @@
+# ── Build Artifacts ──────────────────────────────
+*.o
+*.out
+pathfinder
+
+# ── macOS System Files ──────────────────────────
+.DS_Store
+._*
+
+# ── IDE / Editor Configs ────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
